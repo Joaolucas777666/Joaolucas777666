@@ -2,6 +2,10 @@
   <img src="./bannerperfil.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="./sisreds_terminal.gif" width="850">
+</p>
+
 #  Olá, eu sou João Lucas!
 
 🎓 Estudante de **Computação e Informática**  
