@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./bannerperfil.png" width="100%">
+</p>
+
 #  Olá, eu sou João Lucas!
 
 🎓 Estudante de **Computação e Informática**  
