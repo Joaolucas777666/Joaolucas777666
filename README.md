@@ -15,7 +15,7 @@
 
 Sou estudante de Computação e Informática, interessado em desenvolvimento de software, segurança da informação e Inteligência Artificial.
 
-Atualmente estou desenvolvendo o **SISREDS — Sistema Inteligente de Segurança em Redes Sociais**, um projeto acadêmico voltado à identificação e prevenção de ameaças presentes em ambientes digitais.
+Atualmente estou desenvolvendo o **SISREDS — Sistema Inteligente de Segurança em Redes Sociais**, um projeto acadêmico voltado à identificação e prevenção de ameaças presentes em ambientes digitais. O SISREDS combina desenvolvimento web, processamento de dados, Inteligência Artificial e técnicas de segurança da informação.
 
 Busco transformar conhecimento acadêmico em projetos práticos, explorando novas tecnologias e aprimorando continuamente minhas habilidades em programação.
 
@@ -41,27 +41,6 @@ Busco transformar conhecimento acadêmico em projetos práticos, explorando nova
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## 🛡️ Projeto em destaque
-
-### 🚨 SISREDS
-
-**Sistema Identificador de Ameaças em Redes Sociais**
-
-Projeto acadêmico desenvolvido com o objetivo de auxiliar na identificação de ameaças presentes em redes sociais.
-
-O projeto explora diferentes abordagens para identificação de:
-
-- 🤖 Bots e perfis automatizados
-- 📰 Notícias falsas
-- 🔗 Links maliciosos
-- 🎭 Deepfakes
-
-O SISREDS combina desenvolvimento web, processamento de dados, Inteligência Artificial e técnicas de segurança da informação.
-
-> 🚀 Projeto em desenvolvimento como parte do meu trabalho acadêmico.
 
 ---
 
