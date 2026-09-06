@@ -3,7 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="./dist/github-snake.gif" alt="GitHub contribution snake">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/joaolucas777666/joaolucas777666/main/dist/github-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/joaolucas777666/joaolucas777666/main/dist/github-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/joaolucas777666/joaolucas777666/main/dist/github-snake.svg"
+      alt="GitHub contribution snake"
+    >
+  </picture>
 </p>
 
 #  Olá, eu sou João Lucas!
