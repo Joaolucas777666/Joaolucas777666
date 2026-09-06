@@ -2,6 +2,10 @@
   <img src="./bannerperfil.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="./dist/github-snake.gif" alt="GitHub contribution snake">
+</p>
+
 #  Olá, eu sou João Lucas!
 
 🎓 Estudante de **Computação e Informática**  
